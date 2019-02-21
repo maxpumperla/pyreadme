@@ -119,6 +119,6 @@ docs/sources
 .json
 
 # Dev stuff
-/v1.
+/v1.2
 rest_test.py
 plan.md
